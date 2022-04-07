@@ -7,5 +7,9 @@ public class Git {
             System.out.println("This is gold class");
 
         }
+        @Test
+        public void silver(){
+            System.out.println("This is silver class");
+        }
     }
 
