@@ -58,13 +58,7 @@ public class Git {
             System.out.println("Selected month is:" +month);
             System.out.println("Selected Year is:"  +year);
 
-
-
         }
-    @Test
-    public  void metal(){
-        System.out.println("This is metal");
-    }
 
 
     }
